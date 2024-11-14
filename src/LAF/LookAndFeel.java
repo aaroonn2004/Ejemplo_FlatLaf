@@ -128,6 +128,5 @@ public class LookAndFeel {
 		// Y estos de aquí dan error, puesto que son para Mac
 		new LookAndFeel("Flat Mac Light", "com.formdev.flatlaf.FlatMacLight");
 		new LookAndFeel("Flat Mac Dark", "com.formdev.flatlaf.FlatMacDark");		
-		new LookAndFeel("JTattoo Mint", "com.jtattoo.plaf.luna");
 	}
 }
